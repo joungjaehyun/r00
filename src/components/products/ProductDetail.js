@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 const ThumImg = styled.img`
-    width: 100px;
-    height: 100px;    
+    width: 200px;
+    height: 200px;
 `
 const BlueDiv = styled.div`
     background-color: blue
